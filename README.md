@@ -1,4 +1,4 @@
-# pep UI
+# Pep UI
 
 A Flat UI / Seti inspired theme for Atom. [Pep UI](https://github.com/Pepeye/pep-syntax) also available.
 
