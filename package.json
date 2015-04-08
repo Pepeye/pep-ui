@@ -1,7 +1,7 @@
 {
   "name": "pep-ui",
   "theme": "ui",
-  "version": "0.0.2",
+  "version": "0.0.3",
   "description": "A flat UI theme for Atom with custom file icons based on seti.",
   "license": "MIT",
   "repository": "https://github.com/Pepeye/pep-ui",
