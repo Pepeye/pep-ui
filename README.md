@@ -2,7 +2,7 @@
 
 A Flat UI / Seti inspired theme for Atom. [Pep UI](https://github.com/Pepeye/pep-syntax) also available.
 
-![Screenshot](https://github.com/Pepeye/pep-ui/blob/master/screenshot.png)
+![Screenshot](https://raw.githubusercontent.com/Pepeye/pep-ui/master/screenshot.png)
 
 ### Installation
 
